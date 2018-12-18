@@ -1,0 +1,13 @@
+*~
+*.pyc
+*.pyo
+.vscode/
+venv/
+node_modules/
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+db.sqlite*
+media/
+documents/*
+server/pewnews/settings.py
